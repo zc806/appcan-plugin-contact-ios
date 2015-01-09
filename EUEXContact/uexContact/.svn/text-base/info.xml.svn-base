@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<uexplugins>
-    <plugin
-        uexName="uexContact" version="3.0.1" build="1">
-        <info>1:修复uexContact在iOS8以上版本无法返回联系人信息的bug</info>
-        <build>0:联系人功能插件</build>
-    </plugin>
-</uexplugins>
